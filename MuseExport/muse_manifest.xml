@@ -1,40 +1,40 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KINGBAKERY1.com" resolutions="1x" timestamp="1533579437078">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KINGBAKERY1.com" resolutions="1x" timestamp="1533698162145">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="535808961" ref="drink:blog-2:contact:đkk:đkk-lỗi:blog:đkk-copy:index:bread:blog-1:đăng-nhập:đkk-tc:birthday-cake:success2:about-us:donut:banana-nut:ice-cream:mistake:đkk-sửa:huỷ-order:thanh-toán:empty-cart:my-cart:thành-công:add-quatity:tt-đã-đk:sign-up"/>
-    <file name="master_d-master.css" crc="70390218" ref="success2:banana-nut:mistake"/>
+    <file name="master_f.css" crc="4003514095" ref="thành-công:huỷ-order:empty-cart:tt-đã-đk:thanh-toán:my-cart:add-quatity"/>
+    <file name="master_a-master.css" crc="535808961" ref="blog-2:thành-công:blog:bread:huỷ-order:success2:index:mistake:contact:empty-cart:tt-đã-đk:blog-1:thanh-toán:banana-nut:my-cart:drink:đkk-lỗi:about-us:sign-up:đkk-tc:donut:đăng-nhập:ice-cream:add-quatity:đkk-copy:đkk:đkk-sửa:birthday-cake"/>
+    <file name="master_b-master.css" crc="3947504822" ref="bread:drink:donut:ice-cream:birthday-cake"/>
     <file name="master_c-master.css" crc="4047184967" ref="about-us"/>
-    <file name="master_e-master.css" crc="4039114141" ref="blog-2:contact:đkk:đkk-lỗi:blog:đkk-copy:blog-1:đăng-nhập:đkk-tc:đkk-sửa:sign-up"/>
-    <file name="master_b-master.css" crc="3947504822" ref="drink:bread:birthday-cake:donut:ice-cream"/>
-    <file name="drink.css" crc="3877432319" ref="drink"/>
+    <file name="master_d-master.css" crc="70390218" ref="success2:mistake:banana-nut"/>
+    <file name="master_e-master.css" crc="4039114141" ref="blog-2:blog:contact:blog-1:đkk-lỗi:sign-up:đkk-tc:đăng-nhập:đkk-copy:đkk:đkk-sửa"/>
     <file name="blog-2.css" crc="19526373" ref="blog-2"/>
-    <file name="contact.css" crc="4164107979" ref="contact"/>
-    <file name="_kk.css" crc="3908785004" ref="đkk"/>
-    <file name="_kk-l_i.css" crc="4207533901" ref="đkk-lỗi"/>
-    <file name="blog.css" crc="125585487" ref="blog"/>
-    <file name="_kk-copy.css" crc="19549577" ref="đkk-copy"/>
-    <file name="index.css" crc="4124264399" ref="index"/>
-    <file name="bread.css" crc="143058057" ref="bread"/>
-    <file name="blog-1.css" crc="415054702" ref="blog-1"/>
-    <file name="__ng-nh_p.css" crc="309375353" ref="đăng-nhập"/>
-    <file name="_kk-tc.css" crc="4264725664" ref="đkk-tc"/>
-    <file name="birthday-cake.css" crc="3886393269" ref="birthday-cake"/>
-    <file name="success2.css" crc="3913359634" ref="success2"/>
-    <file name="about-us.css" crc="374231737" ref="about-us"/>
-    <file name="donut.css" crc="20362793" ref="donut"/>
-    <file name="banana-nut.css" crc="414983184" ref="banana-nut"/>
-    <file name="ice-cream.css" crc="521809545" ref="ice-cream"/>
-    <file name="mistake.css" crc="461348235" ref="mistake"/>
-    <file name="_kk-s_a.css" crc="46568183" ref="đkk-sửa"/>
-    <file name="master_f.css" crc="4003514095" ref="huỷ-order:thanh-toán:empty-cart:my-cart:thành-công:add-quatity:tt-đã-đk"/>
-    <file name="hu_-order.css" crc="446310029" ref="huỷ-order"/>
-    <file name="thanh-to_n.css" crc="66634012" ref="thanh-toán"/>
-    <file name="empty-cart.css" crc="518526725" ref="empty-cart"/>
-    <file name="my-cart.css" crc="4119550562" ref="my-cart"/>
     <file name="th_nh-c_ng.css" crc="495713329" ref="thành-công"/>
-    <file name="add-quatity.css" crc="502773937" ref="add-quatity"/>
+    <file name="blog.css" crc="125585487" ref="blog"/>
+    <file name="bread.css" crc="143058057" ref="bread"/>
+    <file name="hu_-order.css" crc="446310029" ref="huỷ-order"/>
+    <file name="success2.css" crc="3913359634" ref="success2"/>
+    <file name="index.css" crc="4124264399" ref="index"/>
+    <file name="mistake.css" crc="461348235" ref="mistake"/>
+    <file name="contact.css" crc="4164107979" ref="contact"/>
+    <file name="empty-cart.css" crc="518526725" ref="empty-cart"/>
     <file name="tt-__-_k.css" crc="496248815" ref="tt-đã-đk"/>
+    <file name="blog-1.css" crc="415054702" ref="blog-1"/>
+    <file name="thanh-to_n.css" crc="66634012" ref="thanh-toán"/>
+    <file name="banana-nut.css" crc="414983184" ref="banana-nut"/>
+    <file name="my-cart.css" crc="4119550562" ref="my-cart"/>
+    <file name="drink.css" crc="3877432319" ref="drink"/>
+    <file name="_kk-l_i.css" crc="4207533901" ref="đkk-lỗi"/>
+    <file name="about-us.css" crc="374231737" ref="about-us"/>
     <file name="sign-up.css" crc="4219307318" ref="sign-up"/>
+    <file name="_kk-tc.css" crc="3813082993" ref="đkk-tc"/>
+    <file name="donut.css" crc="20362793" ref="donut"/>
+    <file name="__ng-nh_p.css" crc="309375353" ref="đăng-nhập"/>
+    <file name="ice-cream.css" crc="521809545" ref="ice-cream"/>
+    <file name="add-quatity.css" crc="502773937" ref="add-quatity"/>
+    <file name="_kk-copy.css" crc="19549577" ref="đkk-copy"/>
+    <file name="_kk.css" crc="3908785004" ref="đkk"/>
+    <file name="_kk-s_a.css" crc="46568183" ref="đkk-sửa"/>
+    <file name="birthday-cake.css" crc="3886393269" ref="birthday-cake"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="366383134" seo="true" mt="1533549797000"/>
@@ -44,7 +44,7 @@
     <file name="museutils.js" crc="340535759" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="whatinput.js" crc="86476730" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="museconfig.js" crc="310584261" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:add-quatity:sign-up:thành-công"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:add-quatity:sign-up"/>
     <file name="webpro.js" crc="4059564322" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
@@ -67,11 +67,8 @@
     <file name="form-u38892.php" crc="400198199" ref="sign-up"/>
   </folder>
   <folder name="images">
-    <file name="zzzzz.png" crc="4249808396" ref="index:thành-công">
+    <file name="zzzzz.png" crc="4249808396" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u34368.png" crc="418726913" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
@@ -84,79 +81,47 @@
     <file name="u34385_states-r.png" crc="4183904181" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u36250_states.png" crc="3860951533" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u36250_states-r.png" crc="3940004313" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="2.png" crc="16656285" ref="index:thành-công">
+    <file name="u34389_states.png" crc="3886247102" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
+    <file name="u34389_states-r.png" crc="4055844565" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
+    <file name="2.png" crc="16656285" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="b.png" crc="64770863" ref="index:thành-công">
+    <file name="b.png" crc="64770863" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="4.png" crc="126942183" ref="index:thành-công">
+    <file name="4.png" crc="126942183" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="d.png" crc="3994186687" ref="index:thành-công">
+    <file name="d.png" crc="3994186687" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="3.png" crc="3763777693" ref="index:thành-công">
+    <file name="3.png" crc="3763777693" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="c.png" crc="451899612" ref="index:thành-công">
+    <file name="c.png" crc="451899612" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="5.png" crc="507661009" ref="index:thành-công">
+    <file name="5.png" crc="507661009" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="e.png" crc="4101441756" ref="index:thành-công">
+    <file name="e.png" crc="4101441756" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
     <file name="u5898-4.png" crc="235592392" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="ss.png" crc="430392826" ref="index:thành-công">
+    <file name="ss.png" crc="430392826" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="ds.png" crc="438877992" ref="index:thành-công">
+    <file name="ds.png" crc="438877992" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="1.png" crc="181260760" ref="index:thành-công">
+    <file name="1.png" crc="181260760" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="a.png" crc="4231216448" ref="index:thành-công">
+    <file name="a.png" crc="4231216448" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
+    <file name="u31448_states.png" crc="3791279896" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
+    <file name="u31448_states-r.png" crc="4236196281" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u31429_states.png" crc="330182391" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u31429_states-r.png" crc="4154079669" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="home_bakery_slide_bg1.jpg" crc="4184760772" seo="true" ref="index">
@@ -192,10 +157,6 @@
     <file name="u32334-4.png" crc="403897956" ref="index"/>
     <file name="794f60c9cef52bfcd84f98f57db6b1f3.jpg" crc="4099321377" ref="index:banana-nut">
       <caption webpage="index" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
@@ -231,10 +192,6 @@
     <file name="u33258-6.png" crc="4161784712" ref="index"/>
     <file name="48969e67ca303b258d405c865a394ec4.jpg" crc="426216649" ref="index:drink:banana-nut">
       <caption webpage="index" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
@@ -261,11 +218,8 @@
     <file name="p4354w1.jpg" crc="208036025" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="res2-footer-bg.jpg" crc="501652351" ref="index:bread:birthday-cake:donut:ice-cream:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:sign-up:my-cart:thành-công">
+    <file name="res2-footer-bg.jpg" crc="501652351" ref="index:bread:birthday-cake:donut:ice-cream:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:sign-up">
       <caption webpage="index" alt=""/>
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
     <file name="u3588-4.png" crc="206376408" ref="index"/>
     <file name="u3606-4.png" crc="4045895151" ref="index"/>
@@ -314,13 +268,11 @@
     <file name="u33869_states-r.png" crc="4203625566" ref="index"/>
     <file name="u33868_states.png" crc="78183760" ref="index"/>
     <file name="u33868_states-r.png" crc="514924186" ref="index"/>
-    <file name="delicious-healthy-buns-of-bread_23-2147761315.jpg" crc="356700191" ref="bread:đkk:about-us:banana-nut:blog:my-cart:thành-công">
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="thành-công" alt=""/>
+    <file name="delicious-healthy-buns-of-bread_23-2147761315.jpg" crc="356700191" ref="bread:đkk:about-us:banana-nut:blog:my-cart">
       <caption webpage="bread" alt=""/>
-      <caption webpage="about-us" alt=""/>
     </file>
     <file name="u6141-4.png" crc="4009922294" ref="bread:birthday-cake:donut:ice-cream:drink"/>
+    <file name="u38857-4.png" crc="297555105" ref="bread"/>
     <file name="u4456-4.png" crc="73860151" ref="bread"/>
     <file name="search-01.png" crc="4048758071" ref="bread:drink:blog">
       <caption webpage="blog" alt=""/>
@@ -334,7 +286,11 @@
     <file name="u22390-4.png" crc="102467943" ref="bread"/>
     <file name="u22280-4-a.png" crc="3890314354" ref="bread"/>
     <file name="u22393-4.png" crc="4050110439" ref="bread"/>
+    <file name="u22281.png" crc="390248668" ref="bread"/>
+    <file name="u22281-r.png" crc="4124998785" ref="bread"/>
     <file name="u22396-4.png" crc="4050110439" ref="bread"/>
+    <file name="u22282.png" crc="361337581" ref="bread"/>
+    <file name="u22282-r.png" crc="69177666" ref="bread"/>
     <file name="u22399-4.png" crc="4105624924" ref="bread"/>
     <file name="u22283_states.png" crc="4254475394" ref="bread"/>
     <file name="u22283_states-r.png" crc="8532556" ref="bread"/>
@@ -361,99 +317,91 @@
     <file name="u22293_states-r.png" crc="272435353" ref="bread"/>
     <file name="u22525-4.png" crc="3915317956" ref="bread"/>
     <file name="8decc0fe3f63fcdd7cefba18c7863ab2.jpg" crc="140864060" ref="bread:birthday-cake:donut:ice-cream:drink:banana-nut">
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="drink" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="bread" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
       <caption webpage="donut" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="drink" alt=""/>
     </file>
     <file name="794f60c9cef52bfcd84f98f57db6b1f3-u22548-fr.jpg" crc="457151017" ref="bread:birthday-cake:donut:ice-cream:drink"/>
     <file name="peanut butter banana cookies-01.jpg" crc="23648929" ref="bread:birthday-cake:donut:ice-cream:drink:banana-nut">
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="drink" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="bread" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
       <caption webpage="donut" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="drink" alt=""/>
     </file>
     <file name="ciabatta bread-crop-u4485.jpg" crc="417858968" seo="true" ref="bread">
       <caption webpage="bread" alt=""/>
     </file>
     <file name="fgdf.jpg" crc="87099590" seo="true" ref="bread:birthday-cake:donut:ice-cream:drink:banana-nut:mistake:success2">
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="birthday-cake" alt=""/>
-      <caption webpage="drink" alt=""/>
-      <caption webpage="drink" alt=""/>
-      <caption webpage="drink" alt=""/>
-      <caption webpage="mistake" alt=""/>
-      <caption webpage="mistake" alt=""/>
-      <caption webpage="mistake" alt=""/>
-      <caption webpage="mistake" alt=""/>
-      <caption webpage="mistake" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
-      <caption webpage="donut" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="bread" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="ice-cream" alt=""/>
       <caption webpage="banana-nut" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="bread" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
-      <caption webpage="ice-cream" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="birthday-cake" alt=""/>
+      <caption webpage="mistake" alt=""/>
+      <caption webpage="mistake" alt=""/>
+      <caption webpage="mistake" alt=""/>
+      <caption webpage="mistake" alt=""/>
+      <caption webpage="mistake" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
+      <caption webpage="donut" alt=""/>
       <caption webpage="success2" alt=""/>
       <caption webpage="success2" alt=""/>
       <caption webpage="success2" alt=""/>
       <caption webpage="success2" alt=""/>
       <caption webpage="success2" alt=""/>
+      <caption webpage="drink" alt=""/>
+      <caption webpage="drink" alt=""/>
+      <caption webpage="drink" alt=""/>
     </file>
     <file name="u4489-4.png" crc="4206377219" ref="bread"/>
     <file name="u4490_states.png" crc="4226652227" ref="bread"/>
@@ -463,7 +411,6 @@
       <caption webpage="bread" alt=""/>
       <caption webpage="bread" alt=""/>
       <caption webpage="bread" alt=""/>
-      <caption webpage="mistake" alt=""/>
     </file>
     <file name="u5340-4.png" crc="4036348833" ref="bread"/>
     <file name="u5320_states.png" crc="4255814451" ref="bread"/>
@@ -579,15 +526,22 @@
     <file name="u34473-r.png" crc="4124182505" ref="bread"/>
     <file name="u34471.png" crc="361497815" ref="bread"/>
     <file name="u34471-r.png" crc="256077405" ref="bread"/>
+    <file name="u38862-4.png" crc="4005599559" ref="birthday-cake"/>
     <file name="u7365-4.png" crc="3777995740" ref="birthday-cake"/>
     <file name="u22409-4.png" crc="4118627649" ref="birthday-cake"/>
     <file name="u22411_states.png" crc="4223374168" ref="birthday-cake"/>
     <file name="u22411_states-r.png" crc="489500443" ref="birthday-cake"/>
     <file name="u22430-4.png" crc="102467943" ref="birthday-cake"/>
+    <file name="u22412.png" crc="3962876509" ref="birthday-cake"/>
+    <file name="u22412-r.png" crc="4179753412" ref="birthday-cake"/>
     <file name="u22431-4.png" crc="4050110439" ref="birthday-cake"/>
     <file name="u22413-4-a.png" crc="243415318" ref="birthday-cake"/>
     <file name="u22432-4.png" crc="4050110439" ref="birthday-cake"/>
+    <file name="u22414.png" crc="3829534334" ref="birthday-cake"/>
+    <file name="u22414-r.png" crc="218824662" ref="birthday-cake"/>
     <file name="u22433-4.png" crc="4105624924" ref="birthday-cake"/>
+    <file name="u22415.png" crc="3858791201" ref="birthday-cake"/>
+    <file name="u22415-r.png" crc="536039916" ref="birthday-cake"/>
     <file name="u22434-4.png" crc="4105624924" ref="birthday-cake"/>
     <file name="u22416_states.png" crc="223783883" ref="birthday-cake"/>
     <file name="u22416_states-r.png" crc="3972473532" ref="birthday-cake"/>
@@ -696,12 +650,17 @@
     <file name="u34653_states-r.png" crc="4124182505" ref="birthday-cake"/>
     <file name="u34654_states.png" crc="361497815" ref="birthday-cake"/>
     <file name="u34654_states-r.png" crc="256077405" ref="birthday-cake"/>
+    <file name="u38867-4.png" crc="3867466490" ref="donut"/>
     <file name="u10521-4.png" crc="151225486" ref="donut"/>
     <file name="u22673-4.png" crc="4118627649" ref="donut"/>
     <file name="u22674_states.png" crc="4223374168" ref="donut"/>
     <file name="u22674_states-r.png" crc="489500443" ref="donut"/>
     <file name="u22681-4.png" crc="102467943" ref="donut"/>
+    <file name="u22675.png" crc="3962876509" ref="donut"/>
+    <file name="u22675-r.png" crc="4179753412" ref="donut"/>
     <file name="u22682-4.png" crc="4050110439" ref="donut"/>
+    <file name="u22676.png" crc="380371844" ref="donut"/>
+    <file name="u22676-r.png" crc="243415318" ref="donut"/>
     <file name="u22683-4.png" crc="4050110439" ref="donut"/>
     <file name="u22677-4-a.png" crc="218824662" ref="donut"/>
     <file name="u22684-4.png" crc="4105624924" ref="donut"/>
@@ -802,15 +761,26 @@
     <file name="u11342-r.png" crc="4121181127" ref="donut"/>
     <file name="u11343.png" crc="3931069612" ref="donut"/>
     <file name="u11343-r.png" crc="4091208293" ref="donut"/>
+    <file name="u38876-4.png" crc="4084900754" ref="ice-cream"/>
     <file name="u12224-4.png" crc="244009876" ref="ice-cream"/>
     <file name="u22833-4.png" crc="4118627649" ref="ice-cream"/>
     <file name="u22834_states.png" crc="4223374168" ref="ice-cream"/>
     <file name="u22834_states-r.png" crc="489500443" ref="ice-cream"/>
     <file name="u22841-4.png" crc="102467943" ref="ice-cream"/>
+    <file name="u22835.png" crc="3962876509" ref="ice-cream"/>
+    <file name="u22835-r.png" crc="4179753412" ref="ice-cream"/>
     <file name="u22842-4.png" crc="4050110439" ref="ice-cream"/>
+    <file name="u22836.png" crc="380371844" ref="ice-cream"/>
+    <file name="u22836-r.png" crc="243415318" ref="ice-cream"/>
     <file name="u22843-4.png" crc="4050110439" ref="ice-cream"/>
+    <file name="u22837.png" crc="341015175" ref="ice-cream"/>
+    <file name="u22837-r.png" crc="218824662" ref="ice-cream"/>
     <file name="u22844-4.png" crc="4105624924" ref="ice-cream"/>
+    <file name="u22838.png" crc="536039916" ref="ice-cream"/>
+    <file name="u22838-r.png" crc="536039916" ref="ice-cream"/>
     <file name="u22845-4.png" crc="4105624924" ref="ice-cream"/>
+    <file name="u22839.png" crc="223783883" ref="ice-cream"/>
+    <file name="u22839-r.png" crc="3972473532" ref="ice-cream"/>
     <file name="u22846-4.png" crc="4105624924" ref="ice-cream"/>
     <file name="u22816-4.png" crc="200506475" ref="ice-cream"/>
     <file name="u22826-4.png" crc="4158793529" ref="ice-cream"/>
@@ -827,10 +797,6 @@
     <file name="u22825_states-r.png" crc="4088685361" ref="ice-cream"/>
     <file name="u22817-4.png" crc="4061470413" ref="ice-cream"/>
     <file name="ice-cream-706092_1920-1 (1).jpg" crc="3957046190" ref="ice-cream:banana-nut">
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
       <caption webpage="ice-cream" alt=""/>
       <caption webpage="ice-cream" alt=""/>
       <caption webpage="banana-nut" alt=""/>
@@ -906,16 +872,27 @@
     <file name="u12934-r.png" crc="4121181127" ref="ice-cream"/>
     <file name="u12935.png" crc="3931069612" ref="ice-cream"/>
     <file name="u12935-r.png" crc="4091208293" ref="ice-cream"/>
+    <file name="u38879-4.png" crc="480567625" ref="drink"/>
     <file name="u12978-4.png" crc="3905631842" ref="drink"/>
     <file name="u13038-4.png" crc="4174696291" ref="drink"/>
     <file name="u22932-4.png" crc="4118627649" ref="drink"/>
     <file name="u22933_states.png" crc="4223374168" ref="drink"/>
     <file name="u22933_states-r.png" crc="489500443" ref="drink"/>
     <file name="u22940-4.png" crc="102467943" ref="drink"/>
+    <file name="u22934.png" crc="3962876509" ref="drink"/>
+    <file name="u22934-r.png" crc="4179753412" ref="drink"/>
     <file name="u22941-4.png" crc="4050110439" ref="drink"/>
+    <file name="u22935.png" crc="380371844" ref="drink"/>
+    <file name="u22935-r.png" crc="243415318" ref="drink"/>
     <file name="u22942-4.png" crc="4050110439" ref="drink"/>
+    <file name="u22936.png" crc="341015175" ref="drink"/>
+    <file name="u22936-r.png" crc="218824662" ref="drink"/>
     <file name="u22943-4.png" crc="4105624924" ref="drink"/>
+    <file name="u22937.png" crc="3858791201" ref="drink"/>
+    <file name="u22937-r.png" crc="536039916" ref="drink"/>
     <file name="u22944-4.png" crc="4105624924" ref="drink"/>
+    <file name="u22938.png" crc="3972473532" ref="drink"/>
+    <file name="u22938-r.png" crc="3972473532" ref="drink"/>
     <file name="u22945-4.png" crc="4105624924" ref="drink"/>
     <file name="u22915-4.png" crc="200506475" ref="drink"/>
     <file name="u22925-4.png" crc="4158793529" ref="drink"/>
@@ -931,10 +908,6 @@
     <file name="u22924_states.png" crc="3799036973" ref="drink"/>
     <file name="u22924_states-r.png" crc="4088685361" ref="drink"/>
     <file name="c0ebb4be4be01daadfea24ed9efa19df.jpg" crc="4111688150" ref="drink:banana-nut">
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
@@ -945,10 +918,6 @@
     <file name="u12997_states.png" crc="84316413" ref="drink"/>
     <file name="u12997_states-r.png" crc="4016817358" ref="drink"/>
     <file name="a665cf714ed5219511c3d1d13f77a823.jpg" crc="4052664599" ref="drink:banana-nut">
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
-      <caption webpage="my-cart" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
       <caption webpage="banana-nut" alt=""/>
@@ -1014,6 +983,9 @@
     <file name="u15363-4.png" crc="4277911647" ref="about-us"/>
     <file name="u15362-4-a.png" crc="4126675148" ref="about-us"/>
     <file name="u15391-4.png" crc="4064568730" ref="about-us"/>
+    <file name="u15394-4.png" crc="184909283" ref="about-us"/>
+    <file name="u15397-5.png" crc="116235794" ref="about-us"/>
+    <file name="u15400-8.png" crc="4243657784" ref="about-us"/>
     <file name="dfsdf.jpg" crc="4281480276" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
@@ -1143,11 +1115,11 @@
     <file name="u16251-a.png" crc="4202974183" ref="banana-nut"/>
     <file name="u16308-4.png" crc="4257713705" ref="banana-nut"/>
     <file name="post-05-160x160.jpg" crc="12751495" ref="banana-nut:mistake:blog-1:success2:blog-2">
-      <caption webpage="banana-nut" alt=""/>
-      <caption webpage="blog-2" alt=""/>
-      <caption webpage="success2" alt=""/>
       <caption webpage="mistake" alt=""/>
       <caption webpage="blog-1" alt=""/>
+      <caption webpage="blog-2" alt=""/>
+      <caption webpage="success2" alt=""/>
+      <caption webpage="banana-nut" alt=""/>
     </file>
     <file name="u16320-8.png" crc="70952697" ref="banana-nut"/>
     <file name="u16350-4.png" crc="4116172216" ref="banana-nut"/>
@@ -1344,6 +1316,9 @@
     <file name="u24609-r.png" crc="4121181127" ref="contact"/>
     <file name="u24610.png" crc="3931069612" ref="contact"/>
     <file name="u24610-r.png" crc="4091208293" ref="contact"/>
+    <file name="pasted image 600x332.jpg" crc="277096484" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
     <file name="u24581-4.png" crc="10407263" ref="blog"/>
     <file name="u24710-4.png" crc="4275674029" ref="blog"/>
     <file name="u24853-4.png" crc="3790395049" ref="blog"/>
@@ -1725,7 +1700,7 @@
     <file name="u35702-5.png" crc="4276074916" ref="đkk-sửa"/>
     <file name="u35719-4.png" crc="276748227" ref="đkk-sửa"/>
     <file name="u35725-4.png" crc="3919121899" ref="đkk-sửa"/>
-    <file name="u35729-4.png" crc="4179398421" ref="đkk-sửa"/>
+    <file name="u35729-4.png" crc="493761086" ref="đkk-sửa"/>
     <file name="u35705-fs.png" crc="3794925187" ref="đkk-sửa"/>
     <file name="u35706-fse.png" crc="443965018" ref="đkk-sửa"/>
     <file name="u35704-fss.png" crc="441052461" ref="đkk-sửa"/>
@@ -1831,6 +1806,40 @@
     <file name="u38636-4.png" crc="181068144" ref="my-cart"/>
     <file name="u37591_states.png" crc="3968132425" ref="my-cart"/>
     <file name="u37591_states-r.png" crc="3968132425" ref="my-cart"/>
+    <file name="u39256-4.png" crc="206376408" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39257-4.png" crc="4045895151" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39258-4.png" crc="4174894124" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39259-4.png" crc="94607331" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39260.png" crc="174640055" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39260-r.png" crc="174794359" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39261.png" crc="3808210836" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39261-r.png" crc="3810968622" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39262.png" crc="4285362567" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39262-r.png" crc="114036422" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39263.png" crc="4211913482" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39263-r.png" crc="3804346207" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39264.png" crc="4252098261" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39264-r.png" crc="341375829" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39265.png" crc="65527025" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39265-r.png" crc="4002244813" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39266.png" crc="3953921733" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39266-r.png" crc="4261588213" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39267.png" crc="4154531990" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39267-r.png" crc="172765906" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39268.png" crc="149411809" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39268-r.png" crc="477906940" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39269.png" crc="4293795794" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39269-r.png" crc="4036523714" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39270.png" crc="3903815444" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39270-r.png" crc="4161291843" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39271.png" crc="528304001" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39271-r.png" crc="528304001" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39272.png" crc="447772019" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39272-r.png" crc="447772019" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39273.png" crc="4015626969" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39273-r.png" crc="4121181127" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39274.png" crc="3931069612" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
+    <file name="u39274-r.png" crc="4091208293" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
     <file name="u37711.png" crc="3975494452" ref="thanh-toán"/>
     <file name="u37711-r.png" crc="270818340" ref="thanh-toán"/>
     <file name="u37713-4.png" crc="4170012416" ref="thanh-toán"/>
@@ -1845,6 +1854,8 @@
     <file name="u37732-r.png" crc="4113728852" ref="thanh-toán"/>
     <file name="u37738-4.png" crc="4149547645" ref="thanh-toán"/>
     <file name="captcha.png" crc="362548909" ref="thanh-toán"/>
+    <file name="u37734_states.png" crc="8402560" ref="thanh-toán"/>
+    <file name="u37734_states-r.png" crc="3644159" ref="thanh-toán"/>
     <file name="u37754.png" crc="6875713" ref="thanh-toán"/>
     <file name="u37754-r.png" crc="411516593" ref="thanh-toán"/>
     <file name="u37843.png" crc="3821776966" ref="tt-đã-đk"/>
@@ -1865,6 +1876,8 @@
     <file name="captcha2.png" crc="362548909" ref="tt-đã-đk"/>
     <file name="u37866.png" crc="3970040447" ref="tt-đã-đk"/>
     <file name="u37866-r.png" crc="3924466595" ref="tt-đã-đk"/>
+    <file name="u37886_states.png" crc="13648554" ref="tt-đã-đk"/>
+    <file name="u37886_states-r.png" crc="4101365498" ref="tt-đã-đk"/>
     <file name="u38442.png" crc="4255480545" ref="thành-công"/>
     <file name="u38442-r.png" crc="4255480545" ref="thành-công"/>
     <file name="u38451_states.png" crc="4255900831" ref="thành-công"/>
@@ -1890,6 +1903,8 @@
     <file name="u38464.png" crc="125507228" ref="huỷ-order"/>
     <file name="u38464-r.png" crc="4163703778" ref="huỷ-order"/>
     <file name="u38568-4.png" crc="3764682989" ref="huỷ-order"/>
+    <file name="u38569_states.png" crc="319724565" ref="huỷ-order"/>
+    <file name="u38569_states-r.png" crc="4187019679" ref="huỷ-order"/>
     <file name="u38727-4.png" crc="9985105" ref="add-quatity"/>
     <file name="u38732-4.png" crc="3972781199" ref="add-quatity"/>
     <file name="u38728-4.png" crc="34479722" ref="add-quatity"/>
@@ -1920,55 +1935,6 @@
     <file name="u38831-4.png" crc="4285750982" ref="empty-cart"/>
     <file name="u38791_states.png" crc="3968132425" ref="empty-cart"/>
     <file name="u38791_states-r.png" crc="3968132425" ref="empty-cart"/>
-    <file name="u15394-4.png" crc="184909283" ref="about-us"/>
-    <file name="u15397-5.png" crc="116235794" ref="about-us"/>
-    <file name="u15400-8.png" crc="4243657784" ref="about-us"/>
-    <file name="pasted image 600x332.jpg" crc="277096484" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="u34389_states.png" crc="3886247102" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="u34389_states-r.png" crc="4055844565" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="u38857-4.png" crc="297555105" ref="bread"/>
-    <file name="u22281.png" crc="390248668" ref="bread"/>
-    <file name="u22281-r.png" crc="4124998785" ref="bread"/>
-    <file name="u22282.png" crc="361337581" ref="bread"/>
-    <file name="u22282-r.png" crc="69177666" ref="bread"/>
-    <file name="u38862-4.png" crc="4005599559" ref="birthday-cake"/>
-    <file name="u22412.png" crc="3962876509" ref="birthday-cake"/>
-    <file name="u22412-r.png" crc="4179753412" ref="birthday-cake"/>
-    <file name="u22414.png" crc="3829534334" ref="birthday-cake"/>
-    <file name="u22414-r.png" crc="218824662" ref="birthday-cake"/>
-    <file name="u22415.png" crc="3858791201" ref="birthday-cake"/>
-    <file name="u22415-r.png" crc="536039916" ref="birthday-cake"/>
-    <file name="u38867-4.png" crc="3867466490" ref="donut"/>
-    <file name="u22675.png" crc="3962876509" ref="donut"/>
-    <file name="u22675-r.png" crc="4179753412" ref="donut"/>
-    <file name="u22676.png" crc="380371844" ref="donut"/>
-    <file name="u22676-r.png" crc="243415318" ref="donut"/>
-    <file name="u38876-4.png" crc="4084900754" ref="ice-cream"/>
-    <file name="u22835.png" crc="3962876509" ref="ice-cream"/>
-    <file name="u22835-r.png" crc="4179753412" ref="ice-cream"/>
-    <file name="u22836.png" crc="380371844" ref="ice-cream"/>
-    <file name="u22836-r.png" crc="243415318" ref="ice-cream"/>
-    <file name="u22837.png" crc="341015175" ref="ice-cream"/>
-    <file name="u22837-r.png" crc="218824662" ref="ice-cream"/>
-    <file name="u22838.png" crc="536039916" ref="ice-cream"/>
-    <file name="u22838-r.png" crc="536039916" ref="ice-cream"/>
-    <file name="u22839.png" crc="223783883" ref="ice-cream"/>
-    <file name="u22839-r.png" crc="3972473532" ref="ice-cream"/>
-    <file name="u38879-4.png" crc="480567625" ref="drink"/>
-    <file name="u22934.png" crc="3962876509" ref="drink"/>
-    <file name="u22934-r.png" crc="4179753412" ref="drink"/>
-    <file name="u22935.png" crc="380371844" ref="drink"/>
-    <file name="u22935-r.png" crc="243415318" ref="drink"/>
-    <file name="u22936.png" crc="341015175" ref="drink"/>
-    <file name="u22936-r.png" crc="218824662" ref="drink"/>
-    <file name="u22937.png" crc="3858791201" ref="drink"/>
-    <file name="u22937-r.png" crc="536039916" ref="drink"/>
-    <file name="u22938.png" crc="3972473532" ref="drink"/>
-    <file name="u22938-r.png" crc="3972473532" ref="drink"/>
-    <file name="u31448_states.png" crc="3791279896" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
-    <file name="u31448_states-r.png" crc="4236196281" ref="index:bread:birthday-cake:donut:ice-cream:drink:đkk:about-us:banana-nut:mistake:contact:blog:blog-1:success2:blog-2:đăng-nhập:đkk-copy:đkk-lỗi:đkk-sửa:đkk-tc:my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart:sign-up"/>
     <file name="u38910-6.png" crc="3865627198" ref="sign-up"/>
     <file name="u38890-6.png" crc="136904094" ref="sign-up"/>
     <file name="u38912-4.png" crc="3787163746" ref="sign-up"/>
@@ -2024,46 +1990,6 @@
     <file name="u39000-r.png" crc="4121181127" ref="sign-up"/>
     <file name="u38993.png" crc="3931069612" ref="sign-up"/>
     <file name="u38993-r.png" crc="4091208293" ref="sign-up"/>
-    <file name="u39256-4.png" crc="206376408" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39257-4.png" crc="4045895151" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39258-4.png" crc="4174894124" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39259-4.png" crc="94607331" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39260.png" crc="174640055" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39260-r.png" crc="174794359" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39261.png" crc="3808210836" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39261-r.png" crc="3810968622" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39262.png" crc="4285362567" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39262-r.png" crc="114036422" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39263.png" crc="4211913482" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39263-r.png" crc="3804346207" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39264.png" crc="4252098261" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39264-r.png" crc="341375829" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39265.png" crc="65527025" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39265-r.png" crc="4002244813" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39266.png" crc="3953921733" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39266-r.png" crc="4261588213" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39267.png" crc="4154531990" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39267-r.png" crc="172765906" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39268.png" crc="149411809" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39268-r.png" crc="477906940" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39269.png" crc="4293795794" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39269-r.png" crc="4036523714" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39270.png" crc="3903815444" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39270-r.png" crc="4161291843" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39271.png" crc="528304001" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39271-r.png" crc="528304001" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39272.png" crc="447772019" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39272-r.png" crc="447772019" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39273.png" crc="4015626969" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39273-r.png" crc="4121181127" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39274.png" crc="3931069612" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u39274-r.png" crc="4091208293" ref="my-cart:thanh-toán:tt-đã-đk:thành-công:huỷ-order:add-quatity:empty-cart"/>
-    <file name="u37734_states.png" crc="8402560" ref="thanh-toán"/>
-    <file name="u37734_states-r.png" crc="3644159" ref="thanh-toán"/>
-    <file name="u37886_states.png" crc="13648554" ref="tt-đã-đk"/>
-    <file name="u37886_states-r.png" crc="4101365498" ref="tt-đã-đk"/>
-    <file name="u38569_states.png" crc="319724565" ref="huỷ-order"/>
-    <file name="u38569_states-r.png" crc="4187019679" ref="huỷ-order"/>
   </folder>
   <file name="index.html" crc="108910408" seo="true" mt="1533576764236" redirect="true"/>
   <file name="bread.html" crc="367605395" seo="true" mt="1533577074608" redirect="true"/>
@@ -2082,15 +2008,15 @@
   <file name="blog-2.html" crc="83670454" seo="true" mt="1533576764236" redirect="true"/>
   <file name="đăng-nhập.html" crc="522115795" seo="true" mt="1533576764236" redirect="true"/>
   <file name="đkk-copy.html" crc="221464049" seo="true" mt="1533576764236" redirect="true"/>
-  <file name="đkk-lỗi.html" crc="4127167050" seo="true" mt="1533579170006" redirect="true"/>
-  <file name="đkk-sửa.html" crc="479686118" seo="true" mt="1533579171899" redirect="true"/>
-  <file name="đkk-tc.html" crc="4164367819" seo="true" mt="1533576764236" redirect="true"/>
+  <file name="đkk-lỗi.html" crc="4127167050" seo="true" mt="1533698148584" redirect="true"/>
+  <file name="đkk-sửa.html" crc="3880477769" seo="true" mt="1533698149973" redirect="true"/>
+  <file name="đkk-tc.html" crc="3932558220" seo="true" mt="1533698056217" redirect="true"/>
   <file name="my-cart.html" crc="374472192" seo="true" mt="1533577863178" redirect="true"/>
   <file name="thanh-toán.html" crc="285966270" seo="true" mt="1533579060938" redirect="true"/>
   <file name="tt-đã-đk.html" crc="3838562687" seo="true" mt="1533579017661" redirect="true"/>
-  <file name="thành-công.html" crc="497768793" seo="true" mt="1533579389702" redirect="true"/>
+  <file name="thành-công.html" crc="344235150" seo="true" mt="1533579389702" redirect="true"/>
   <file name="huỷ-order.html" crc="28040669" seo="true" mt="1533578962424" redirect="true"/>
   <file name="add-quatity.html" crc="3774940220" seo="true" mt="1533578752372" redirect="true"/>
   <file name="empty-cart.html" crc="242167674" seo="true" mt="1533578802639" redirect="true"/>
-  <file name="sign-up.html" crc="81844578" seo="true" mt="1533579183075" redirect="true"/>
+  <file name="sign-up.html" crc="81844578" seo="true" mt="1533698159935" redirect="true"/>
 </manifest>
